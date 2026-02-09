@@ -1,6 +1,6 @@
 /*
     PowerLEDColorU
-    By Solace D. Ellery
+    By "The Sun God: Nika"
 */
 
 // Yes, I made a header for the main.cpp file
@@ -32,7 +32,7 @@
 WUPS_PLUGIN_NAME("PowerLEDColorU");
 WUPS_PLUGIN_DESCRIPTION("Allows you to change the Wii U's LED Color, located on the Power Button, while the console is turned on");
 WUPS_PLUGIN_VERSION("v1.0.0");
-WUPS_PLUGIN_AUTHOR("Spencerly D. Everly");
+WUPS_PLUGIN_AUTHOR("The Sun God: Nika");
 WUPS_PLUGIN_LICENSE("MIT");
 
 // Set to use a config file
