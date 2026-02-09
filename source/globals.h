@@ -88,9 +88,9 @@ struct Global
         PluginVersion_Minor = 0;
 
         // Plugin Globals: Author
-        PluginAuthor_First = "Spencerly";
-        PluginAuthor_Middle = "D.";
-        PluginAuthor_Last = "Everly";
+        PluginAuthor_First = "The";
+        PluginAuthor_Middle = "Sun";
+        PluginAuthor_Last = "God: Nika";
 
         // Plugin Globals: Strings
         std::vector<std::string> PluginConfigStrings_MenuSections = {"LED Settings", "Debug Settings"};
